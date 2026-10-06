@@ -2,7 +2,7 @@
 
 draw something
 
-https://saxbobombs.github.io/kaku/dist/
+https://pixelnudgee.github.io/kaku/dist/
 
 ## used technologies
 
