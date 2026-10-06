@@ -48,7 +48,14 @@
     "last 2 versions",
     "not dead"
   ],
-    "engines": {
+  "engines": {
     "node": "16.20.2"
+  },
+  "allowScripts": {
+    "@fortawesome/fontawesome-free": false,
+    "bootstrap-vue": false,
+    "core-js": false,
+    "ejs": false,
+    "yorkie": false
   }
 }

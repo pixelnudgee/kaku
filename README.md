@@ -24,8 +24,13 @@ https://pixelnudgee.github.io/kaku/dist/
 
 * run `npm run build`
 
+## todos
+
+* update deps
+
 ## maybe todos
 
+* port to react
 * real sass support
 * extra current drawop canvas
 * filters
